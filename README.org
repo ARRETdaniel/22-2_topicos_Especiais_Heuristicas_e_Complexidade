@@ -1,6 +1,6 @@
 #+TITLE:  Solving the Traveling Salesman Problem using Self-Organizing Maps
 #+AUTHOR: Daniel Terra Gomes
-#+Copyright(c): Diego Vicente Martín
+#+Copyright: Diego Vicente Martín
 
 
 This repository contains an implementation of a Self Organizing Map.
