@@ -1,6 +1,6 @@
 #+TITLE:  Solving the Traveling Salesman Problem using Self-Organizing Maps
 #+AUTHOR: Daniel Terra Gomes
-#+Copyright(c): Diego Vicente Martín
+#+Copyright: Diego Vicente Martín
 
 
 This repository contains an implementation of a Self Organizing Map.
@@ -34,5 +34,5 @@ to this repository by creating an issue.
 -----
 
 This code was presented for the Bio-Inspired Artificial Intelligence course in
-the Computer Science & Technology master's degree @ UC3M. A previous version of
-this code can be found in [[https://github.com/DiegoVicen/ntnu-som][this repository]]. Special thanks to [[https://github.com/leo-labs][Leonard Kleinans]].
+the Computer Science & Technology master's degree @ UC3M. The previous and present version of
+this code can be found in [[https://github.com/diego-vicente][this repository]] and [[https://github.com/leo-labs][Leonard Kleinans]].
