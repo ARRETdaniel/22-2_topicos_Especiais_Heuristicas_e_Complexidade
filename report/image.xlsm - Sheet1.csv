@@ -1,0 +1,5 @@
+Instance,Instance size,Iterations,Time (s),Length,Optimal Tour Length,Quality
+Qatar,194 Cities,14690,14.3,10233.89,9352.00,9.4%
+Uruguay,734 Cities,17351,23.4,85072.35,79114.00,7.5%
+Finland,"10,639 Cities",37833,284.0,636580.27,520527.00,22.3%
+Italy,"16,862 Cities",39368,401.1,723212.87,557315.00,29.7%
